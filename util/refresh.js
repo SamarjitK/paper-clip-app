@@ -3,4 +3,4 @@ export const wait = (timeout) => {
 }
 
 // Refresh rate in milliseconds
-export const REFRESH_RATE = 2000;
+export const REFRESH_RATE = 5000;
